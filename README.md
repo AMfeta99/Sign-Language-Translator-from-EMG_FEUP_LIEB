@@ -1,0 +1,1 @@
+# Sign-Language-Translator-from-EMG_FEUP_LIEB
