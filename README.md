@@ -1,13 +1,16 @@
 # Sign Language Translator from EMG [FEUP_LIEB]
 
 This repository is dedicated to the LIED 2019/2020 project. The objective of the project was to come up with an idea to solve a biomedical problem or develop a biomedical tool/device/app using all the software/hardware necessary for development from scratch of a complete/functional prototype.
+![image](https://github.com/AMfeta99/Sign-Language-Translator-from-EMG_FEUP_LIEB/assets/74252797/ec7b44fb-c1bb-4271-a350-5160d2bc7701)
+
 
 ## Goal
 We aimed to development of an app that corresponds to a prototype of a sign language translator and the traditional game Rock Paper Scissors (using EMG signals).
 
 ## Approach
-The electromyography (EMG) signal has been widely used both in the medical field for diagnosis and for identifying movements with a view, for example, to controlling devices such as prostheses. To identify the 3 gestures in question, 3 surface electrodes were placed on the forearm and developed an analog circuit that allows its acquisition and processing in order to obtain the EMG signal
-integrated (IEMG). 
+The electromyography (EMG) signal has been widely used both in the medical field for diagnosis and for identifying movements with a view, for example, to controlling devices such as prostheses. To identify the 3 gestures in question, 3 surface electrodes were placed on the forearm and developed an analog circuit that allows its acquisition and processing in order to obtain the EMG signal integrated (IEMG). 
+![image](https://github.com/AMfeta99/Sign-Language-Translator-from-EMG_FEUP_LIEB/assets/74252797/c1cee307-ae18-4cec-a5f9-1afd1fa1c065)
+
 
 This is a key element in determining the gesture since each muscle is associated with a threshold value that determines whether the captured signal corresponds to the muscle in the active or inactive state, which combining the two channels allows you to determine the position of the hand. The processed analog signal is converted to digital from the Arduino and information about the activation state is sent to Java, where the gesture identification algorithm and the translator/game are implemented. 
 
