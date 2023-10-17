@@ -1,4 +1,4 @@
-# Sign-Language-Translator-from-EMG_FEUP_LIEB
+# Sign Language Translator from EMG [FEUP_LIEB]
 
 This repository is dedicated to the LIED 2019/2020 project. The objective of the project was to come up with an idea to solve a biomedical problem or develop a biomedical tool/device/app using all the software/hardware necessary for development from scratch of a complete/functional prototype.
 
