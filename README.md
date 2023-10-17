@@ -14,8 +14,8 @@ This is a key element in determining the gesture since each muscle is associated
 ## Scripts/files:
 - Analog Circuit in Multisim (design and simulation of  analogic circuit that allows its EMG acquisition and processing )
 - Pedra_Papel_Tesoura (Java project that contains a set of scripts/files of the app)
-- LIEB_report (Final reports describing, literature, methods/development [EMG acquisition, processing , convertion to digital (Arduino), app design/operation ], results)
-- 
+- LIEB_report (Final reports describing, literature, methods/development including EMG acquisition, processing , convertion to digital (Arduino), app design/operation , results)
+- PP_LIEB (slides used to support the oral/final presentation)
 
 ## Results:
 The results demonstrated the possibility of using this signal to identify gestures of a in a simple and quick way, whether for application as a translator or for implementing the game in question.
